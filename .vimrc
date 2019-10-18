@@ -39,7 +39,7 @@ hi GroupA ctermbg=blue ctermfg=blue guibg=blue
 
 " Persistent Undo
 
-# You have to create undir manually for this to work !
+" You have to create undir manually for this to work !
 
 set undofile                " Save undos after file closes
 set undodir=$HOME/.vim/undo " where to save undo histories
